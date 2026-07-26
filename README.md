@@ -28,7 +28,8 @@ I am a final-year Computer Science student passionate about building **AI-powere
 *An AI-Powered Semantic ATS Resume Analyzer.*
 * **Tech Stack:** React, FastAPI, Sentence Transformers
 * **What it does:** Built a semantic ATS system using transformer embeddings achieving 98% accuracy and <60s average analysis time with local AI inference. Features skill-gap analysis and real-time feedback.
-* [🔗 GitHub Repository](YOUR_GITHUB_PROJECT_LINK_HERE)
+* [🔗 GitHub Repository](https://github.com/satyavardhankoyalkar/ai-resume-analyzer
+)
 
 #### 💻 **satya-portfolio-cli**
 *A terminal-based portfolio generator.*
