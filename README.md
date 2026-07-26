@@ -53,8 +53,8 @@ I am a final-year Computer Science student passionate about building **AI-powere
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Satya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyavardhankoyalkar&show_icons=true&theme=radical" alt="Satya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyavardhankoyalkar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
