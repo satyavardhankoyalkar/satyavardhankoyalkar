@@ -36,17 +36,17 @@ I am a final-year Computer Science student passionate about building **AI-powere
 * **Tech Stack:** Node.js, Inquirer.js
 * **What it does:** Published an npm package that generates hacker-style terminal portfolios instantly with interactive CLI and static HTML export.
 * Try it out: `npx satya-portfolio-cli`
-* [🔗 GitHub Repository](YOUR_GITHUB_PROJECT_LINK_HERE) | [📦 npm package](YOUR_NPM_LINK_HERE)
+* [🔗 GitHub Repository](https://github.com/satyavardhankoyalkar/satya-portfolio-cli) | [📦 npm package](https://www.npmjs.com/package/satya-portfolio-cli)
 
 #### 📊 **Smart CSV Analytics Dashboard**
 * **Tech Stack:** Streamlit, Pandas, Plotly
 * **What it does:** Auto-cleaning and visualization platform for CSV files featuring outlier detection and smart insights.
-* [🔗 GitHub Repository](YOUR_GITHUB_PROJECT_LINK_HERE)
+* [🔗 GitHub Repository](https://github.com/satyavardhankoyalkar/smart-csv-analytics-dashboard)
 
 #### 🌿 **AI Plant Disease Detector**
 * **Tech Stack:** TensorFlow, Gradio
 * **What it does:** Trained a CNN on 20k+ images and deployed a real-time inference web app.
-* [🔗 GitHub Repository](YOUR_GITHUB_PROJECT_LINK_HERE)
+* [🔗 GitHub Repository](https://github.com/satyavardhankoyalkar/ai-plant-disease-detector)
 
 ---
 
@@ -62,6 +62,6 @@ I am a final-year Computer Science student passionate about building **AI-powere
 ### 🤝 Connect with Me
 
 * 📧 **Email:** satyavardhan24105@gmail.com
-* 💼 **LinkedIn:** [Your LinkedIn Profile](YOUR_LINKEDIN_URL_HERE)
-* 🌐 **Portfolio:** [Your Portfolio Website](YOUR_PORTFOLIO_URL_HERE)
+* 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/satyavardhan-koyalkar-5ba793284/)
+* 🌐 **Portfolio:** [Your Portfolio Website](https://portfolio-satyavardhan-koyalkar.vercel.app/)
 * 📍 **Location:** Hyderabad, India
